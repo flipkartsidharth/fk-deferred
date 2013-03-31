@@ -1,0 +1,26 @@
+{
+  "name": "fk-deferred",
+  "version": "0.0.0",
+  "description": "Using deferreds to make async operations easier",
+  "main": "deferred.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.org/flipkartsidharth/fk-deferreds"
+  },
+  "keywords": [
+    "deferreds",
+    "async",
+    "promises"
+  ],
+  "author": "Sidharth Kuruvila <sidharth.kuruvila@flipkart.com>",
+  "license": "BSD",
+  "devDependencies": {
+    "mocha": "~1.8.2"
+  }
+}
